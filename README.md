@@ -22,5 +22,5 @@ Known Issues:
 - Launch ``ApplyPatch.bat`` and wait(Will need from 15 to 25 minutes depending on the system).
 - Let it finish and there should be a .ZIP file named ``KeepInMindVITA_Files.zip``.
 - Open the VitaShell, connect your PS Vita to your PC and copy the contents of the .ZIP file(Not the ZIP file itself, just files inside it) over to ``ux0:app/KPMN12352/`(Picture Below of how it should look after copying everything).
-![image](https://github.com/PatnosDD/Keep-In-Mind-Remastered-PS-VITA/assets/106522646/4192edd4-00da-4247-8952-bb630a94bc22)
+ ![image](https://github.com/PatnosDD/Keep-In-Mind-Remastered-PS-VITA/assets/106522646/4192edd4-00da-4247-8952-bb630a94bc22)
 - Launch the game and have fun!
