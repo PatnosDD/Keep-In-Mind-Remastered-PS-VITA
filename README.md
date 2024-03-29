@@ -15,7 +15,7 @@ Known Issues:
 
 
 ## STEAM VERSION
-- Download Night In The Woods vpk from vitadb and install it.
+- Download Keep In Mind Remastered vpk from vitadb and install it.
 - Go to the Release page and download ``KeepInMindVITAsteam.zip``.
 - Extract it.
 - Put the game's folder(```..\steamapps\common\Keep In Mind```) inside the extracted folder(Should be Steam version).)
